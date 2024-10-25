@@ -1,0 +1,20 @@
+export const produtos = [
+    {
+        "codigo":1,
+        "descricao":"camiseta",
+        "precoCusto":10.00,
+        "precoVenda":20.00,
+        "qtdEstoque":100,
+        "urlImagem":"",
+        "validade":"31/08/2050"
+    },
+    {
+        "codigo":2,
+        "descricao":"Blusa",
+        "precoCusto":20.00,
+        "precoVenda":40.00,
+        "qtdEstoque":100,
+        "urlImagem":"",
+        "validade":"31/09/2050"
+    }
+];
